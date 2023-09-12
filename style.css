@@ -1,0 +1,13 @@
+.abajo{
+    color: black;
+    background-color: #32FBE2;
+    text-align: center;
+    padding: 5px 0;
+    margin:0;
+}
+
+.section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
